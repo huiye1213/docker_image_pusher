@@ -1,1 +1,1 @@
-pytorch
+pytorch --platform==2.11.0-cuda13.0-cudnn9-runtime
